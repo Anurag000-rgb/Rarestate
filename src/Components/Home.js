@@ -35,20 +35,7 @@ export default function Home() {
 
 
 
-const Nav = styled.nav`
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 60px;
-    background-color: #040714;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 0 36px;
-    letter-spacing: 16px;
-    z-index: -1;
-`;
+
 const Container = styled.section`
     
     flex-direction: column;
@@ -70,17 +57,7 @@ const BgImage = styled.div`
     position: absolute;
     z-index: -100;
 `;
-const Bg_Image = styled.div`
-    height: 100%;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-image: url("/image/metaverse101.jpeg");
-    top: 0;
-    right: 0;
-    left: 0;
-    position: absolute;
-    z-index: -1;
-`;
+
 const Content = styled.div`
     margin-bottom: 10vw;
     width: 100%;
