@@ -19,7 +19,7 @@ export default function Home() {
           <Description>Welcome To <TextAnimation/> Metaverse</Description>
           <Line>A Marketplace For Real Estate 🏡  & 🏘️</Line>
           <Line>Based On Land Minted NFTs Only available on Rarestate</Line>
-          <SignUp href="https://www.google.com/">Launch Marketplace</SignUp>
+          <SignUp href="https://rarestate-marketplace-hggdbdz8d-anurag000-rgb.vercel.app/login">Launch Marketplace</SignUp>
           <SignUp_1>Read More</SignUp_1>
         </CTA>
         <BgImage/>
