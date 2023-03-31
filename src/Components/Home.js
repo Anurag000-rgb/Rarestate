@@ -50,7 +50,7 @@ const BgImage = styled.div`
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url("images/metaverse.jpeg");
+    background-image: url("Images/metaverse.jpeg");
     top: 100;
     right: 0;
     left: 0;
